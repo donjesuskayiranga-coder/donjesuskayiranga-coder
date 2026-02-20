@@ -85,9 +85,11 @@ const kayiranga = {
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=donjesuskayiranga-coder&theme=darkhub&column=4&margin-w=10&margin-h=10&no-bg=true&title_color=C9A84C)
+[![trophy](https://github-profile-trophy.vercel.app/?username=donjesuskayiranga-coder&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
