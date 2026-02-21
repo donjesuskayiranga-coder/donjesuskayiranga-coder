@@ -33,12 +33,56 @@ const kayiranga = {
   backend:    ["Node.js", "Express.js", "PHP"],
   databases:  ["MongoDB", "MySQL"],
   interests:  ["Web3", "Cybersecurity", "System Architecture"],
+  ctf:        "Active PicoCTF competitor & cybersecurity challenger",
   currentFocus: "Building secure, scalable full-stack systems",
   funFact:    "I think in systems, not just in code 🔐"
 };
+
 ```
 
 <br />
+
+
+
+## 🔐 Cybersecurity
+
+> Security is not a feature — it is a foundation.
+
+I am deeply passionate about cybersecurity and actively sharpen my skills through hands-on challenges and real-world problem solving.
+
+**🏆 CTF Competitions**
+
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-Active_Competitor-111111?style=for-the-badge&logo=hackthebox&logoColor=C9A84C)](https://picoctf.org)
+[![CTF](https://img.shields.io/badge/CTF_Challenges-Ongoing-111111?style=for-the-badge&logo=hack-the-box&logoColor=C9A84C)](https://picoctf.org)
+
+**PicoCTF** is a world-renowned cybersecurity competition created by Carnegie Mellon University where I actively compete and solve real security challenges across these domains:
+
+| Domain | Description |
+|---|---|
+| 🔍 **Reverse Engineering** | Analyzing and understanding compiled programs |
+| 🌐 **Web Exploitation** | Finding and exploiting vulnerabilities in web apps |
+| 🔒 **Cryptography** | Breaking and understanding encryption systems |
+| 🧩 **Binary Exploitation** | Low-level memory and binary attacks |
+| 🕵️ **Forensics** | Investigating and recovering hidden data |
+| 💻 **General Skills** | Linux, scripting, and core security concepts |
+
+**🛡️ Security Knowledge I Apply**
+```
+✔  JWT authentication & secure token handling
+✔  Password hashing with bcrypt
+✔  Role-based access control (RBAC)
+✔  Input validation & sanitization
+✔  API security & route protection
+✔  Identifying & preventing common web vulnerabilities
+```
+
+**📚 Currently Studying**
+- Network security & penetration testing fundamentals
+- OWASP Top 10 vulnerabilities
+- Ethical hacking methodologies
+- Secure coding practices in Node.js & React
+
+- <br />
 
 ---
 
@@ -75,6 +119,23 @@ const kayiranga = {
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C9A84C)
 ![VSCode](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visual-studio-code&logoColor=C9A84C)
 ![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=C9A84C)
+<div align="center">
+| # | Tool | Category | Purpose |
+|---|---|---|---|
+| 1 | 🔍 **Nmap** | Reconnaissance | Network scanning & port discovery |
+| 2 | 🦈 **Wireshark** | Network Analysis | Packet capturing & traffic inspection |
+| 3 | 💀 **Metasploit** | Exploitation | Penetration testing framework |
+| 4 | 🔥 **Burp Suite** | Web Security | HTTP interception & web app testing |
+| 5 | 🔑 **John the Ripper** | Cryptography | Password hash cracking |
+| 6 | ⚡ **Hashcat** | Cryptography | GPU-accelerated hash cracking |
+| 7 | 📡 **Aircrack-ng** | Wireless | WiFi security testing |
+| 8 | 🚪 **Gobuster** | Web Security | Hidden directory & file brute forcing |
+| 9 | 💧 **Hydra** | Exploitation | Login brute force attacks |
+| 10 | 🔬 **Binwalk** | Forensics | Binary & firmware analysis |
+
+</div>
+
+> ⚠️ All tools are used strictly for **ethical hacking**, **CTF competitions**, and **authorized security research** only.
 
 </div>
 
