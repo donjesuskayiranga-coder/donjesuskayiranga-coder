@@ -1,5 +1,6 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C9A84C&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+KAYIRANGA+Jesus+👋;Full-Stack+Developer+%F0%9F%9A%80;Web3+%26+Cybersecurity+Enthusiast+🔐;CEO+%26+Founder+of+VaultIQ+🏛️;Building+from+Kigali%2C+Rwanda+🇷🇼)](https://git.io/typing-svg)
 
 <br />
