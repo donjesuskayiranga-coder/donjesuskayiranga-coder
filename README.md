@@ -5,9 +5,9 @@
 
 <br />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=donjesuskayiranga-coder&color=C9A84C&style=flat-square&label=Profile+Views)](https://github.com/donjesuskayiranga-coder)
-[![GitHub followers](https://img.shields.io/github/followers/donjesuskayiranga-coder?label=Followers&style=flat-square&color=C9A84C&labelColor=111111)](https://github.com/donjesuskayiranga-coder?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/donjesuskayiranga-coder?label=Total%20Stars&style=flat-square&color=C9A84C&labelColor=111111)](https://github.com/donjesuskayiranga-coder)
+[![Profile Views](https://komarev.com/ghpvc/?username=D-Audit&color=C9A84C&style=flat-square&label=Profile+Views)](https://github.com/D-Audit)
+[![GitHub followers](https://img.shields.io/github/followers/D-Audit?label=Followers&style=flat-square&color=C9A84C&labelColor=111111)](https://github.com/D-Audit?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/D-Audit?label=Total%20Stars&style=flat-square&color=C9A84C&labelColor=111111)](https://github.com/D-Audit)
 
 <br />
 
@@ -153,7 +153,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 | 🏛️ Project | 📝 Description | 🛠️ Stack | 🔗 Link |
 |---|---|---|---|
-| **VaultIQ** | Premium inventory management system with role-based access, admin analytics, JWT auth and full CRUD | Node.js · Express · React · MongoDB | [View Project](https://github.com/donjesuskayiranga-coder/inventory-management) |
+| **VaultIQ** | Premium inventory management system with role-based access, admin analytics, JWT auth and full CRUD | Node.js · Express · React · MongoDB | [View Project](https://github.com/D-Audit/inventory-management) |
 
 > More projects coming soon — stay tuned 👀
 
@@ -177,7 +177,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=donjesuskayiranga-coder&theme=dark&background=111111&border=2a2a2a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=a09a90)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=D-Audit&theme=dark&background=111111&border=2a2a2a&ring=C9A84C&fire=C9A84C&currStreakLabel=C9A84C&sideLabels=C9A84C&dates=a09a90)](https://git.io/streak-stats)
 
 </div>
 
@@ -189,7 +189,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=donjesuskayiranga-coder&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=D-Audit&theme=darkhub&column=4&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -201,7 +201,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donjesuskayiranga-coder&bg_color=111111&color=C9A84C&line=C9A84C&point=f0ede8&area=true&hide_border=false&border_color=2a2a2a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D-Audit&bg_color=111111&color=C9A84C&line=C9A84C&point=f0ede8&area=true&hide_border=false&border_color=2a2a2a)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -241,7 +241,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 <div align="center">
 
-![Snake animation](https://github.com/donjesuskayiranga-coder/donjesuskayiranga-coder/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/D-Audit/D-Audit/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -251,7 +251,7 @@ I am deeply passionate about cybersecurity and actively sharpen my skills throug
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/donjesuskayiranga-coder)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=C9A84C)](https://github.com/D-Audit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=C9A84C)](https://www.linkedin.com/in/kayiranga-don-jesus-9713693a6/)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=C9A84C)](https://instagram.com/donje_sus12)
 [![Email](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=C9A84C)](mailto:donjesuskayiranga@gmail.com)
